@@ -1,0 +1,64 @@
+button {
+    display: block;
+    margin: 20px auto; /* Centraliza o botão horizontalmente */
+    padding: 10px 20px;
+    font-family: 'Arial', sans-serif; /* Altere para a fonte desejada */
+    font-size: 14px;
+    border-radius: 15px; /* Deixa o botão mais arredondado */
+    border: none;
+    background-color: #007BFF; /* Cor de fundo do botão */
+    color: white; /* Cor do texto */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3; /* Cor ao passar o mouse */
+}
+
+h1 {
+    text-align: center; /* Centraliza o título */
+    font-family: 'Arial', sans-serif; /* Altere para a fonte desejada */
+    font-size: 24px; /* Tamanho da fonte do título */
+    color: #333; /* Cor do texto do título */
+    margin-bottom: 20px;
+}
+
+/*Capos texto notas prova e trabalhos */
+
+#notaP1, #PesoP1, #TrabalhoP1, #PesoTrabP1, #notaP2, #PesoP2, #TrabalhoP2, #PesoTrabP2 {
+    width: auto;
+    height: 10px;
+    font-size: 12px;
+    font-family: 'reboto', sans-serif;
+    padding: 4px 6px;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15); /* Sombra */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease; /* Transição suave */
+    background-color: #f9f9f9;
+    padding: 5px;
+    border-radius: 3px;
+  }
+ 
+#Aula {
+    width: 260px;
+    height: 10px;
+    font-size: 12px;
+    font-family: 'reboto', sans-serif;
+    padding: 4px 6px;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15); /* Sombra */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease; /* Transição suave */
+    background-color: #f9f9f9;
+    padding: 5px;
+    border-radius: 3px;
+}
+  
+
+
+
+
+
+  
